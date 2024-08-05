@@ -1,2 +1,0 @@
-# mathguide
-mathguide.laer.me
